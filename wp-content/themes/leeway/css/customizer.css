@@ -1,0 +1,24 @@
+/*
+ * Theme Customizer CSS
+ *
+ */
+
+#customize-control-leeway_control_postmeta_headline,
+#customize-control-leeway_control_slider_activated   {
+	margin-top: 12px;
+}
+#customize-control-leeway_control_featured_posts_header,
+#customize-control-leeway_control_slider_animation {
+	margin-top: 8px;
+	border-top: 1px solid #eee;
+	padding-top: 14px;
+}
+
+#customize-control-leeway_control_default_fonts,
+#customize-control-leeway_control_header_content,
+#customize-control-leeway_control_post_images,
+#customize-control-leeway_control_excerpt_text_headline,
+#customize-control-leeway_control_postmeta_headline,
+#customize-control-leeway_control_slider_activated  {
+	margin-bottom: 0;
+}

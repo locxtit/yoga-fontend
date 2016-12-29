@@ -1,0 +1,760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: News Maxx Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-03 11:47+0700\n"
+"PO-Revision-Date: 2015-08-03 11:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: Kopatheme <kopasoft@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# @ news-mix
+#: ../404.php:11
+msgid "404"
+msgstr ""
+
+# @ news-mix
+#: ../404.php:14
+msgid "Page not found..."
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"We're sorry, but we can't find the page you were looking for. It's probably "
+"some thing we've done wrong but now we know about it we'll try to fix it. In "
+"the meantime, try one of these options:"
+msgstr ""
+
+# @ news-mix
+#: ../404.php:17
+msgid "Go back to previous page"
+msgstr ""
+
+# @ news-mix
+#: ../404.php:18
+msgid "Go to homepage"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:15
+msgid "No Comment"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:63 ../comments.php:72
+msgid "Pingback"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:67 ../comments.php:101
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:130
+msgid "Name *"
+msgstr ""
+
+#: ../comments.php:134
+msgid "Email *"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:138
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:145 ../comments.php:149
+msgid "Your comment *"
+msgstr ""
+
+#: ../comments.php:155
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: ../comments.php:159
+msgid "POST YOUR COMMENTS"
+msgstr ""
+
+# @ news-mix
+#: ../comments.php:162
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:35
+msgid "Top Menu (All Items Flat)"
+msgstr ""
+
+# @ news-mix
+#: ../functions.php:36
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:37
+msgid "Second Menu"
+msgstr ""
+
+#: ../functions.php:38
+msgid "Bottom Menu (All Items Flat)"
+msgstr ""
+
+#: ../functions.php:136
+msgid "SEND"
+msgstr ""
+
+#: ../functions.php:137
+msgid "SENDING..."
+msgstr ""
+
+# @ news-mix
+#: ../functions.php:140
+msgid "Please enter your name."
+msgstr ""
+
+# @ news-mix
+#: ../functions.php:143
+msgid "Please enter your email."
+msgstr ""
+
+# @ news-mix
+#: ../functions.php:144
+msgid "Please enter a valid email."
+msgstr ""
+
+#: ../functions.php:147
+msgid "Please enter your comment."
+msgstr ""
+
+#: ../header.php:117
+msgid "Menu"
+msgstr ""
+
+#: ../lib/includes/frontend.php:21
+msgid "From around the world"
+msgstr ""
+
+#: ../lib/includes/frontend.php:173
+msgid "You are here: "
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/frontend.php:173
+msgid "Home"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/frontend.php:183
+msgid "Blog"
+msgstr ""
+
+#: ../lib/includes/frontend.php:318
+#, php-format
+msgid "<span class=\"%1$s\">Your search for \"%2$s\" return %3$s results"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/frontend.php:323
+#, php-format
+msgid "Posts created by %1$s"
+msgstr ""
+
+#: ../lib/includes/frontend.php:326
+msgid "Error 404"
+msgstr ""
+
+#: ../lib/includes/frontend.php:388
+msgid "About"
+msgstr ""
+
+#: ../lib/includes/frontend.php:443
+msgid "Post by related"
+msgstr ""
+
+#: ../lib/includes/frontend.php:443
+msgid "Related post"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:6
+msgid "General Settings"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/panels/general-settings.php:10
+msgid "Logo"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:11
+msgid "Upload your logo image."
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:19
+msgid "Bottom logo"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:20
+msgid "Upload your bottom logo image."
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:28
+msgid "Copyright"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:29
+msgid "Your copyright information on footer."
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:37
+msgid "Blog layout"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:41
+msgid "Blog-1"
+msgstr ""
+
+#: ../lib/includes/panels/general-settings.php:42
+msgid "Blog-2"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:13
+msgid "Sidebar Top Left"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:16
+msgid "Sidebar Right Top"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:19
+msgid "Sidebar Right Center Left"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:22
+msgid "Sidebar Right Center Right"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:25
+msgid "Sidebar Right Bottom"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:28
+msgid "Footer 1st"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:31
+msgid "Footer 2nd"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:34
+msgid "Footer 3rd"
+msgstr ""
+
+#: ../lib/includes/sidebars.php:37
+msgid "Footer 4th"
+msgstr ""
+
+#: ../lib/includes/widget.php:111
+msgid "Timestamp (ago)"
+msgstr ""
+
+#: ../lib/includes/widget.php:113
+msgid "-- Select --"
+msgstr ""
+
+#: ../lib/includes/widget.php:114
+msgid "1 week"
+msgstr ""
+
+#: ../lib/includes/widget.php:115
+msgid "2 weeks"
+msgstr ""
+
+#: ../lib/includes/widget.php:116
+msgid "3 weeks"
+msgstr ""
+
+#: ../lib/includes/widget.php:117
+msgid "1 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:118
+msgid "2 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:119
+msgid "3 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:120
+msgid "4 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:121
+msgid "5 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:122
+msgid "6 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:123
+msgid "7 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:124
+msgid "8 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:125
+msgid "9 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:126
+msgid "10 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:127
+msgid "11 months"
+msgstr ""
+
+#: ../lib/includes/widget.php:128
+msgid "1 year"
+msgstr ""
+
+#: ../lib/includes/widget.php:129
+msgid "2 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:130
+msgid "3 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:131
+msgid "4 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:132
+msgid "5 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:133
+msgid "6 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:134
+msgid "7 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:135
+msgid "8 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:136
+msgid "9 years"
+msgstr ""
+
+#: ../lib/includes/widget.php:137
+msgid "10 years"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:13
+msgid "Article list carousel"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:15
+msgid "Widget Article List Carousel"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-article-list-carousel.php:48
+#: ../lib/includes/widgets/widget-articles-list-cat.php:129
+#: ../lib/includes/widgets/widget-articles-list.php:128
+#: ../lib/includes/widgets/widget-combo.php:121
+#: ../lib/includes/widgets/widget-contact-info.php:84
+#: ../lib/includes/widgets/widget-list-gallery.php:31
+#: ../lib/includes/widgets/widget-text.php:56
+#: ../lib/includes/widgets/widget-video.php:107
+msgid "Title:"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-article-list-carousel.php:52
+#: ../lib/includes/widgets/widget-articles-list-cat.php:133
+#: ../lib/includes/widgets/widget-articles-list.php:132
+#: ../lib/includes/widgets/widget-list-gallery.php:35
+#: ../lib/includes/widgets/widget-video.php:111
+msgid "Categories"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:54
+#: ../lib/includes/widgets/widget-article-list-carousel.php:76
+#: ../lib/includes/widgets/widget-articles-list-cat.php:135
+#: ../lib/includes/widgets/widget-articles-list-cat.php:157
+#: ../lib/includes/widgets/widget-articles-list.php:134
+#: ../lib/includes/widgets/widget-articles-list.php:156
+#: ../lib/includes/widgets/widget-list-gallery.php:37
+#: ../lib/includes/widgets/widget-video.php:113
+#: ../lib/includes/widgets/widget-video.php:135
+msgid "--Select--"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:67
+#: ../lib/includes/widgets/widget-articles-list-cat.php:148
+#: ../lib/includes/widgets/widget-articles-list.php:147
+#: ../lib/includes/widgets/widget-video.php:126
+msgid "Relation"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:69
+#: ../lib/includes/widgets/widget-articles-list-cat.php:150
+#: ../lib/includes/widgets/widget-articles-list.php:149
+#: ../lib/includes/widgets/widget-video.php:128
+msgid "OR"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:70
+#: ../lib/includes/widgets/widget-articles-list-cat.php:151
+#: ../lib/includes/widgets/widget-articles-list.php:150
+#: ../lib/includes/widgets/widget-video.php:129
+msgid "AND"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:74
+#: ../lib/includes/widgets/widget-articles-list-cat.php:155
+#: ../lib/includes/widgets/widget-articles-list.php:154
+#: ../lib/includes/widgets/widget-video.php:133
+msgid "Tags"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:90
+#: ../lib/includes/widgets/widget-articles-list-cat.php:171
+#: ../lib/includes/widgets/widget-articles-list.php:170
+#: ../lib/includes/widgets/widget-list-gallery.php:51
+#: ../lib/includes/widgets/widget-video.php:149
+msgid "Orderby"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:93
+#: ../lib/includes/widgets/widget-articles-list-cat.php:174
+#: ../lib/includes/widgets/widget-articles-list.php:173
+#: ../lib/includes/widgets/widget-list-gallery.php:54
+#: ../lib/includes/widgets/widget-video.php:152
+msgid "Latest"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:94
+#: ../lib/includes/widgets/widget-articles-list-cat.php:175
+#: ../lib/includes/widgets/widget-articles-list.php:174
+#: ../lib/includes/widgets/widget-list-gallery.php:55
+#: ../lib/includes/widgets/widget-video.php:153
+msgid "Popular by view count"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:95
+#: ../lib/includes/widgets/widget-articles-list-cat.php:176
+#: ../lib/includes/widgets/widget-articles-list.php:175
+#: ../lib/includes/widgets/widget-list-gallery.php:56
+#: ../lib/includes/widgets/widget-video.php:154
+msgid "Popular by comment count"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-article-list-carousel.php:96
+#: ../lib/includes/widgets/widget-articles-list-cat.php:177
+#: ../lib/includes/widgets/widget-articles-list.php:176
+#: ../lib/includes/widgets/widget-list-gallery.php:57
+#: ../lib/includes/widgets/widget-video.php:155
+msgid "Random"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:108
+#: ../lib/includes/widgets/widget-articles-list-cat.php:189
+#: ../lib/includes/widgets/widget-articles-list.php:188
+#: ../lib/includes/widgets/widget-list-gallery.php:69
+#: ../lib/includes/widgets/widget-video.php:167
+msgid "Number of items:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:112
+#: ../lib/includes/widgets/widget-articles-list-cat.php:193
+#: ../lib/includes/widgets/widget-articles-list.php:192
+msgid "Number words of post excerpt:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:116
+msgid "Display:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:119
+msgid "Display random articles in flexible grid layout"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:120
+msgid "Grid with three items per page"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:134
+msgid "Slide speed:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:136
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-article-list-carousel.php:140
+msgid "Auto Play"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-article-list-carousel.php:165
+msgid "List Articles Carousel"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:12
+msgid "Article list widget for category"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:14
+msgid "Widget Article List Category"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:19
+#: ../lib/includes/widgets/widget-articles-list.php:19
+msgid "List Articles"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:81
+#: ../lib/includes/widgets/widget-combo.php:86
+#: ../lib/includes/widgets/widget-video.php:60
+#: ../module/format-single-audio.php:9 ../module/format-single-audio.php:90
+#: ../module/format-single-audio.php:98 ../module/format-single-gallery.php:9
+#: ../module/format-single-gallery.php:93
+#: ../module/format-single-gallery.php:101 ../module/format-single-video.php:9
+#: ../module/format-single-video.php:95 ../module/format-single-video.php:103
+#: ../module/format-single.php:8 ../module/format-single.php:70
+#: ../module/format-single.php:78
+msgid "By"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:198
+msgid "Display type"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list-cat.php:201
+msgid "Grid layout with two columns, first column is featured style 2"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list.php:12
+msgid "Article list widget"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list.php:14
+msgid "Widget Article List"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list.php:53
+#: ../module/loop-blog-1.php:25 ../module/loop-blog-2.php:26
+msgid "By "
+msgstr ""
+
+#: ../lib/includes/widgets/widget-articles-list.php:77
+#: ../module/loop-blog-1.php:29 ../module/loop-blog-2.php:30
+msgid "Read more"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:13
+msgid ""
+"A widget displays popular articles, recent articles and most comment "
+"articles."
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:15
+msgid "Widget Combo"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:107
+msgid "POPULAR"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:108
+msgid "COMMENT"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:109
+msgid "RECENT"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-combo.php:125
+msgid "Number of article:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:129
+msgid "Popular tab title:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:131
+msgid "Leave it <strong>empty</strong> to hide popular tab."
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:134
+msgid "Latest tab title:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:136
+msgid "Leave it <strong>empty</strong> to hide latest tab."
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:139
+msgid "Comment tab title:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-combo.php:141
+msgid "Leave it <strong>empty</strong> to hide comment tab."
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:13
+msgid "Display contact info"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:15
+msgid "Widget Contact Info"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:20
+msgid "CONTACT"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:21
+msgid "US"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:46
+#: ../lib/includes/widgets/widget-contact-info.php:100
+msgid "Email:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:50
+#: ../lib/includes/widgets/widget-contact-info.php:105
+msgid "Phone:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:54
+#: ../lib/includes/widgets/widget-contact-info.php:109
+msgid "Fax:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:58
+#: ../lib/includes/widgets/widget-contact-info.php:113
+msgid "Address:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:67
+msgid "Contact"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:68
+msgid "Us"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:88
+msgid "Sub title:"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-contact-info.php:93
+msgid "Image:"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-contact-info.php:96
+msgid "Upload"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-list-gallery.php:9
+msgid "Show list posts (gallery format) of categories"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-list-gallery.php:11
+msgid "Widget List Galleries"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-list-gallery.php:87
+msgid "NEW GALLERY"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-text.php:10
+msgid "Arbitrary text, HTML or shortcodes"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-text.php:12
+msgid "Widget Text"
+msgstr ""
+
+# @ news-mix
+#: ../lib/includes/widgets/widget-text.php:61
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-video.php:12
+msgid "video list widget"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-video.php:14
+msgid "Widget List Video"
+msgstr ""
+
+#: ../lib/includes/widgets/widget-video.php:19
+msgid "List Videos"
+msgstr ""
+
+#: ../module/format-single-audio.php:54 ../module/format-single-gallery.php:57
+#: ../module/format-single-video.php:59 ../module/format-single.php:34
+msgid "Next page"
+msgstr ""
+
+#: ../module/format-single-audio.php:55 ../module/format-single-gallery.php:58
+#: ../module/format-single-video.php:60 ../module/format-single.php:35
+msgid "Previous page"
+msgstr ""
+
+#: ../module/format-single-audio.php:62 ../module/format-single-gallery.php:65
+#: ../module/format-single-video.php:67 ../module/format-single.php:42
+msgid "Tags: "
+msgstr ""
+
+#: ../module/format-single-audio.php:74 ../module/format-single-gallery.php:77
+#: ../module/format-single-video.php:79 ../module/format-single.php:54
+msgid "Previous article"
+msgstr ""
+
+#: ../module/format-single-audio.php:79 ../module/format-single-gallery.php:82
+#: ../module/format-single-video.php:84 ../module/format-single.php:59
+msgid "Next article"
+msgstr ""
+
+#: ../module/loop-page.php:16
+msgid "Pages:"
+msgstr ""

@@ -1,0 +1,16 @@
+///////////////////////////////////////////
+    News-maxx lite theme - Change log
+///////////////////////////////////////////
+#1.0.4 (22.06.2015)
+	* Add top left sidebar
+	* Add widget-articles-list-cat widget.
+#1.0.3 (10.06.2015)
+	* Fix some issuees (not force logo by default, remove custom css, add lience readme file for used font...)
+	* Update Widget Combo
+#1.0.2
+	* Replace add_menu_page function by add_theme_page function
+#1.0.1
+	* Remove all plugin territory
+	* Add Licenses for images, javascript files
+#1.0.0
+	[INIT] Theme release !!!

@@ -1,0 +1,326 @@
+/*
+  1. Icons weather
+  2. navigation in widgets
+  3. No thumbnail image & no title
+  4. Change style of category widget & archive widget & tag cloud widget
+  5. Shortcodes Columns Styles
+  6. WordPress Editor Classes
+  7. Posts format
+  8. social shared
+  9. No title
+  10. Search
+  11. Sticky post
+*/
+
+
+/* 1. Icons weather */
+.icon-weather{
+    position: absolute;
+    left: 1px;
+    top: 16px;
+    font-size: 40px;
+}
+.awesome-weather-current-temp{
+    background: none !important;
+}
+
+/* 2. navigation in widgets */
+.page-numbers:hover{
+    cursor: pointer;
+}
+
+/* 3. No thumbnail image & no title */
+.no-thumbnail{
+    margin-left:0 !important;
+}
+.no-thumbnail-1{
+    padding-top:40px;
+}
+.no-title{
+    color: #8f8f8f !important;
+}
+
+/* 4. Change style of category widget & archive widget & tag cloud widget */
+.widget_categories h2, .widget_archive h2, .widget_tag_cloud h2{
+    font-size: 18px !important;
+}
+.widget_tag_cloud .tagcloud a{
+    font-size: 13px !important;
+}
+
+/**/
+/* 5. Shortcodes Columns Styles */
+.kopa-one-two {
+    float:left;
+    margin-right:3%;
+    width:48%;
+}
+.kopa-one-third {
+    float:left;
+    margin-right:2%;
+    width:32%;
+}
+.kopa-two-third {
+    float:left;
+    margin-right:2%;
+    width:66%;
+}
+.kopa-one-fourth {
+    float:left;
+    margin-right:2%;
+    width:23.5%;
+}
+.kopa-three-fourth {
+    float:left;
+    margin-right:2%;
+    width:74.5%;
+}
+
+.kopa-one-two.last,
+.kopa-one-third.last,
+.kopa-two-third.last,
+.kopa-one-fourth.last,
+.kopa-three-fourth.last{
+    margin-right:0 !important;
+}
+/*blockquote {
+    background-color: #e8e8e8;
+    border-left: 5px solid #e03d3d !important;
+}
+blockquote p {
+    color: #343434;
+    font-size: 14px;
+    line-height: 20px;
+    padding: 3px 20px;
+}*/
+#respond .comments-form p #submit-comment{
+    color: white;
+    background-color: #e03d3d;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    float: right;
+}
+.kopa-rating li span{
+    color: #e03d3d;
+}
+#kopa-rate-loading{
+    width: 16px;
+    height: 16px;
+    background: url("../images/process.gif") no-repeat scroll center center transparent;
+    z-index: 1000;
+    display: none;
+    margin-right: -8px;
+    margin-top: 1px;
+    position: absolute;
+    right: 50%;
+}
+.kopa-rate-small{
+    font-size: 37px !important;
+}
+.woocommerce-page .stripe-box, .kopa-home-1 .stripe-box, .kopa-home-2 .stripe-box, .kopa-home-3 .stripe-box, .kopa-home-4 .stripe-box, .kopa-subpage .stripe-box{
+    border-bottom: 1px solid #d8d8d8;
+}
+.sb-search-open{
+    width: 100%;
+}
+
+/* 6. WordPress Editor Classes */
+.wp-caption{
+    max-width: 100%;
+}
+.wp-caption-text{}
+.gallery-caption{}
+.bypostauthor{}
+.alignleft {
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+.alignright {
+    display: inline;
+    float: right;
+    margin-left: 10px;
+}
+.aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 7. Posts format */
+.breadcrumb{
+    word-break: break-all;
+}
+.single section img{
+    max-width: 100%;
+    height: auto;
+}
+.single section iframe{
+    width: 100%;
+}
+
+table {
+    border-bottom: 1px solid #d6d6d6;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 14px;
+    line-height: 2;
+    margin: 0 0 20px;
+    width: 100%;
+}
+td {
+    border-top: 1px solid #d6d6d6;
+    padding: 6px 10px 6px 0;
+}
+dl {
+    margin: 0 20px;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin: 0 0 20px;
+}
+ol li {
+    list-style: inside decimal;
+    margin-bottom: 10px;
+}
+.entry-box .entry-content ul {
+    list-style-type: square;
+    margin: 5px 0;
+}
+.entry-box .entry-content ul li {
+    list-style-type: square;
+    padding-left: 20px;
+}
+.entry-box .entry-content ol li ol li, .entry-box .entry-content ul li ol li ol li {
+    list-style: lower-alpha inside none;
+}
+.entry-box .entry-content ol {
+    padding: 0 0 0 40px;
+    counter-reset: item;
+    display: block;
+    margin: 5px 0;
+}
+.owl-carousel .single-post-carousel img{
+    height: inherit;
+}
+.kopa-rating li{
+    list-style-type: none !important;
+    padding-left: 0!important;
+}
+
+/* social shared */
+#bottom-sidebar .social-links li{
+    margin-bottom: 4px !important;
+}
+.sidebar .kopa-social-links-widget ul li a.fa-rss {
+    background-color: #e03d3d;
+}
+
+
+/* 9. no title */
+.no-title {
+    border-bottom: none !important;
+    padding: 0 !important;
+    display: block;
+}
+.kopa-article-list-1-widget .no-title{
+    margin:0 !important;
+}
+.woocommerce #content table.cart td.actions .input-text, .woocommerce table.cart td.actions .input-text, .woocommerce-page #content table.cart td.actions .input-text, .woocommerce-page table.cart td.actions .input-text {
+    width: 100px;
+}
+.widget-area-9 .kopa-social-links-widget .no-title-social{
+    display:inline !important;
+}
+
+/* 10. Search */
+.search .entry-list .entry-thumb img{
+    display: none;
+    font-size: 11px;
+}
+.search .entry-list > ul > li .entry-item{
+    background: none;
+}
+.search .more-link span, .search .more-link span:hover {
+    color: #222;
+    text-transform: none;
+    padding:0;
+}
+.search .more-link, .search .more-link:hover, .search .more-link span:hover{
+    background: none;
+    color: #e03d3d !important;
+    margin:0;
+    padding:0;
+}
+.search .entry-list > ul > li .entry-item .entry-content .more-link{
+    margin-top:0;
+}
+
+.search-icon{
+    display: none;
+}
+.search .search-icon{
+    display: inline;
+}
+
+/* 11. Sticky Posts */
+.sticky{
+    background: #e03d3d !important;
+}
+.sticky h6 a, .sticky span.entry-author a:hover{
+    color: #fff;
+}
+.sticky h6 a:hover{
+    color: #d9d9d9;
+}
+.sticky span.entry-date, .sticky span.entry-author, .sticky span.entry-author a {
+    color:#d9d9d9;
+}
+.sticky .entry-content p{
+    color:#fff;
+}
+.sticky .more-link{
+    background: #ff8080;
+}
+.sticky .more-link:hover{
+    background: #000;
+}
+.sticky .more-link span{
+    border:1px solid #e03d3d;
+}
+.blog-no-thumbnail {
+    padding-left: 20px;
+    padding-bottom: 16px;
+}
+.kopa-categories-2 .sticky .entry-content{
+    background: #e03d3d !important;
+}
+.sticky .kopa-rating {
+    display: none;
+}
+address{
+    display: block;
+    font-style: italic;
+}
+
+.kopa-fullwidth .page-content-area ul{
+    list-style: none !important;
+    margin:0;
+}
+.kopa-fullwidth .page-content-area ul li{
+    list-style: none !important;
+    padding-left:0;
+}
+.entry-box .tag-box{
+    margin-top:15px;
+}
+
+.page-content-area img {
+    max-width: 100%;
+    height: auto;
+}
