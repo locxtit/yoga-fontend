@@ -42,7 +42,7 @@
 						<?php if($options['mts_related_posts'] == '1') { ?>	
 							<?php $categories = get_the_category($post->ID); if ($categories) { $category_ids = array(); foreach($categories as $individual_category) $category_ids[] = $individual_category->term_id; $args=array( 'category__in' => $category_ids, 'post__not_in' => array($post->ID), 'showposts'=>2, 'caller_get_posts'=>1, 'orderbye' => 'rand' );
 							$my_query = new wp_query( $args ); if( $my_query->have_posts() ) {
-								echo '<div class="related-posts"><div class="postauthor-top"><h3>'.__('Related Posts','mythemeshop').'</h3></div><ul>';
+								echo '<div class="related-posts"><div class="postauthor-top"><h3>'.__('Bài viết liên quan','mythemeshop').'</h3></div><ul>';
 								while( $my_query->have_posts() ) { ++$counter; if($counter == 2) { $postclass = 'last'; $counter = 0; } else { $postclass = ''; } $my_query->the_post();?>
 								<li class="<?php echo $postclass; ?>">
 									<a rel="nofollow" class="relatedthumb" href="<?php the_permalink()?>" rel="bookmark" title="<?php the_title(); ?>">
