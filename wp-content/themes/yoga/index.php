@@ -15,11 +15,11 @@
 								</div>
 							<?php } ?>
 						</a>
-                        <header>						
+                        <!--header>						
 							<h2 class="title">
 								<a href="<?php the_permalink() ?>" title="<?php the_title(); ?>" rel="bookmark"><?php the_title(); ?></a>
 							</h2>
-						</header><!--.header-->
+						</header--><!--.header-->
 						<div class="post-content image-caption-format-1">
 							<?php echo excerpt(17);?>
 						</div>

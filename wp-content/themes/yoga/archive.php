@@ -2,6 +2,8 @@
 <?php get_header(); ?>
 <div id="page" class="container">
 	<div class="content">
+    <div class="row">
+    <div class="col-md-8">
 		<article class="article">
 			<div id="content_box">
 				<h1 class="postsby">
@@ -22,12 +24,12 @@
 					<?php } ?>
 				</h1>
 				<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-					<div class="articledetail">
+					<div class="articledetail clearfix">
 						<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail( 'single-post-thumbnail' ); ?></a>
-						<!--<p class=date-post><?php the_time('F j, Y'); ?></p>-->
+						<p class=date-post><?php the_time('F j, Y'); ?></p>
 						<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
 						<p class="article-summary"><?php the_excerpt();?></p>
-						<a <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="read-more">Xem thêm >></a>
+						<a <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" class="read-more">Xem thêm <i class="fa fa-caret-right"></i></a>
 					</div> 
 				<?php endwhile; else: ?>
 					<div class="post excerpt">
@@ -48,5 +50,9 @@
 				<?php } ?>
 			</div>
 		</article>
+        </div>
+        <div class="col-md-4">
 		<?php get_sidebar(); ?>
+        </div>
+        </div>
 <?php get_footer(); ?>
